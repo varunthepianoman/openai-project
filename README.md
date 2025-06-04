@@ -1,0 +1,2 @@
+- Run ameca_personas.py to get a live chat 
+- Edit prompt on line 4 to get different personalities!

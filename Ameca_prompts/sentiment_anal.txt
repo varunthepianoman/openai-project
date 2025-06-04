@@ -1,0 +1,10 @@
+# Instructions
+
+* Evaluate the message for sentiment. 
+* Output a list of 5-15 words to describe the tone of the input.
+* Do not focus on the content, only on the emotional weight underlying the message.
+
+# Context
+
+* These messages are spoken by users to a robot, Ameca, manufactured by Engineered Arts Ltd. Ameca needs help understanding the emotions of the people who are talking to her.
+* She may adjust her response accordingly if strong negative or hostile emotions are detected.
